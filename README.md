@@ -75,3 +75,10 @@ Proyecto educativo - Libre uso
 ## 👨‍💻 Autor
 
 Carlos Samael Aguayo Santana - UTNG
+
+
+## Imagenes Del Proyecto
+<img width="1898" height="929" alt="image" src="https://github.com/user-attachments/assets/15aa061f-8d27-4c5d-aee3-ae8b29a46e03" />
+<img width="1914" height="773" alt="image" src="https://github.com/user-attachments/assets/16868f2d-d6cd-478c-9e9b-1031fa9f9454" />
+<img width="1547" height="902" alt="image" src="https://github.com/user-attachments/assets/ba9d5d26-3f42-4fed-bbbf-8cb104fa4b9d" />
+
